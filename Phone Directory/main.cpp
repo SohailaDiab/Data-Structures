@@ -1,3 +1,12 @@
+/*--------------------------------------------------------------------------------------------------------
+
+ A program that handles an address book program.
+ 
+The main program uses a simple text-based interface to give the user access to the directory. In 
+a while loop, the program presents the user with a menu of options.
+
+--------------------------------------------------------------------------------------------------------*/
+
 #include <iostream>
 #include <vector>
 #include <string>
