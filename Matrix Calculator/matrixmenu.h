@@ -1,3 +1,15 @@
+/*------------------------------------------------------------------------------------------------
+
+MatrixCalculator class which offers the user a menu of operations to perform
+on int matrices as follows. 
+
+Each of these options should be able to accept matrices of varying
+dimensions, which the user inputs. 
+
+For multiplication, the calculator checks that two matrices are of dimensions n x m and m x p.
+
+------------------------------------------------------------------------------------------------*/
+
 #include <iostream>
 #include <iomanip>
 #include <bits/stdc++.h>
