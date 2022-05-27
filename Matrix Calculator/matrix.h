@@ -1,3 +1,13 @@
+/*-----------------------------------------------------------------------------------------
+
+Matrix class specifications.
+
+Overloaded standard operators and I/O operators to enable Matrix class with 
+addition, subtraction and multiplication and suitable input and output capabilities. 
+Also added a method for matrix transpose.
+
+-----------------------------------------------------------------------------------------*/
+
 #include <iostream>
 #include <iomanip>
 #include <bits/stdc++.h>
@@ -145,6 +155,3 @@ public:
         delete[] mat;
     }
 };
-#endif // MATRIX_H
-// !!NOTE: CHANGE INT TO TEMPLATE TYPE
-
