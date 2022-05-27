@@ -1,2 +1,3 @@
 # Data-Structures
-Programs using data structures and OOP
+Projects using data structures and OOP.
+It contains the following projects:
